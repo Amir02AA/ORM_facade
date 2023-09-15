@@ -1,0 +1,9 @@
+{
+    "name": "asus/or-mfacade",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "require": {}
+}
